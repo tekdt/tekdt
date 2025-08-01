@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekdt" alt="tekdt" /></a> </p>
 
+- 🔭 I’m currently working on [TekDT BMC](https://github.com/tekdt/tekdtbmc)
+
+- 🔭 I’m currently working on [TekDT AIS](https://github.com/tekdt/tekdtais)
+
 - 🔭 I’m currently working on [AIBulkMailer](https://github.com/tekdt/AIBulkMailer)
 
 - 🔭 I’m currently working on [AutoPostFacebookGroupSimple](https://github.com/tekdt/AutoPostFacebookGroupSimple)
