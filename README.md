@@ -33,7 +33,10 @@ I enjoy turning real-world technical challenges into practical and reliable solu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/tekdt/sezoybin">SEZOY</a></h3>
+      <h3>
+        <img src="https://raw.githubusercontent.com/tekdt/sezoybin/main/logo-256.png" alt="SEZOY logo" width="34" height="34" align="center" />
+        <a href="https://github.com/tekdt/sezoybin">SEZOY</a>
+      </h3>
       <p><strong>Network deployment &amp; boot platform</strong></p>
       <p>Turn an ordinary Windows PC into a network deployment station. SEZOY brings together Windows and Linux boot workflows, unattended deployment, driver handling, hardware diagnostics, and client management.</p>
       <p>
